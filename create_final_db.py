@@ -3,7 +3,7 @@ import sqlite3
 import pandas as pd
 import random
 
-print("📥 СОЗДАНИЕ ФИНАЛЬНОЙ БАЗЫ ДАННЫХ...")
+print(" СОЗДАНИЕ БАЗЫ ДАННЫХ")
 
 # Читаем файлы
 players_csv = pd.read_csv('players.csv')
